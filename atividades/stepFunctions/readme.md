@@ -54,3 +54,4 @@ AWS Step Functions é um serviço de orquestração de workflows que permite **c
 
 Workflow: RecebeArquivo → se válido, processarArquivo (Lambda) → notificar → sucesso. Se inválido → erro.
 
+<img width="701" height="519" alt="workflow" src="https://github.com/user-attachments/assets/7290a182-51b7-4e67-81a4-0dba888297a9" />
