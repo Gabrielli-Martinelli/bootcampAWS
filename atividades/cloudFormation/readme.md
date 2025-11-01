@@ -49,3 +49,17 @@ Um template CloudFormation geralmente possui:
     }
   }
 }
+```
+## CloudFormation x Terraform ⚙️
+| Ferramenta             | Descrição                                                                                                                                  | Provedores Suportados                           |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- |
+| **AWS CloudFormation** | Serviço **nativo da AWS**, utilizado exclusivamente para automatizar a criação e gerenciamento de recursos dentro do ecossistema AWS.      | **Apenas AWS**                                  |
+| **Terraform**          | Ferramenta **open-source** desenvolvida pela HashiCorp, que permite gerenciar infraestrutura como código em múltiplos provedores de nuvem. | **Multi-cloud (AWS, Azure, GCP, Oracle, etc.)** |
+
+👉 Em resumo:
+
+- O **CloudFormation é ideal para quem trabalha somente com AWS**, aproveitando toda a integração nativa da plataforma.
+
+- O **Terraform é mais versátil**, pois permite criar e gerenciar recursos em vários provedores ao mesmo tempo, sendo excelente para ambientes híbridos ou multicloud.
+
+
