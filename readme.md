@@ -10,6 +10,7 @@ Aqui você encontra todas as **atividades e projetos** que desenvolvi durante o 
 O bootcamp é uma jornada de aprendizado em **computação em nuvem com AWS**, promovida pela [Digital Innovation One (DIO)](https://www.dio.me/) em parceria com o **Santander**.  
 Durante o programa, explorei os **principais serviços da AWS**.
 
+<img width="1312" height="1072" alt="image" src="https://github.com/user-attachments/assets/aba36100-e46a-430b-8b5b-5062840fe5a7" />
 
 
 ## 🧠 Objetivo do Repositório
